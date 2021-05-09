@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\glDraw">
+      <UniqueIdentifier>{83af6938-476c-4043-97d6-ac4242f73021}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\glText">
+      <UniqueIdentifier>{25ed6e94-af3d-40d0-be00-58cb6fcac828}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\mem">
+      <UniqueIdentifier>{5be5244c-ad19-45bd-8911-8875550a1727}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\queue">
+      <UniqueIdentifier>{8ec0f35d-6ef9-4c58-98b6-f599446875e3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="glDraw.h">
+      <Filter>Header Files\glDraw</Filter>
+    </ClInclude>
+    <ClInclude Include="gltext.h">
+      <Filter>Header Files\glText</Filter>
+    </ClInclude>
+    <ClInclude Include="mem.h">
+      <Filter>Header Files\mem</Filter>
+    </ClInclude>
+    <ClInclude Include="SafeQueue.h">
+      <Filter>Header Files\queue</Filter>
+    </ClInclude>
+    <ClInclude Include="WorkingDirectoryHeader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glDraw.cpp">
+      <Filter>Header Files\glDraw</Filter>
+    </ClCompile>
+    <ClCompile Include="gltext.cpp">
+      <Filter>Header Files\glText</Filter>
+    </ClCompile>
+    <ClCompile Include="mem.cpp">
+      <Filter>Header Files\mem</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+</Project>

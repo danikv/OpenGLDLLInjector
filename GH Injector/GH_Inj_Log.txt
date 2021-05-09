@@ -1,0 +1,840 @@
+21-03-2021 17:10:26
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Downloads\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 23304
+Source             : NtCreateThreadEx WOW64.cpp in SR_NtCreateThreadEx_WOW64 at line 144
+Errorcode          : 0x10100009
+Advanced errorcode : 0x00000102
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+21-03-2021 17:11:00
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Downloads\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 23304
+Source             : NtCreateThreadEx WOW64.cpp in SR_NtCreateThreadEx_WOW64 at line 144
+Errorcode          : 0x10100009
+Advanced errorcode : 0x00000102
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+21-03-2021 17:11:21
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Downloads\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 23304
+Source             : NtCreateThreadEx WOW64.cpp in SR_NtCreateThreadEx_WOW64 at line 144
+Errorcode          : 0x10100009
+Advanced errorcode : 0x00000102
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+21-03-2021 17:11:41
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Downloads\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 23304
+Source             : NtCreateThreadEx WOW64.cpp in SR_NtCreateThreadEx_WOW64 at line 144
+Errorcode          : 0x10100009
+Advanced errorcode : 0x00000102
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+21-03-2021 17:12:40
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Downloads\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 23304
+Source             : NtCreateThreadEx WOW64.cpp in SR_NtCreateThreadEx_WOW64 at line 144
+Errorcode          : 0x10100009
+Advanced errorcode : 0x00000102
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+21-03-2021 17:14:03
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Downloads\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 23304
+Source             : NtCreateThreadEx WOW64.cpp in SR_NtCreateThreadEx_WOW64 at line 144
+Errorcode          : 0x10100009
+Advanced errorcode : 0x00000102
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+21-03-2021 17:14:12
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Downloads\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 23304
+Source             : NtCreateThreadEx WOW64.cpp in SR_NtCreateThreadEx_WOW64 at line 144
+Errorcode          : 0x10100009
+Advanced errorcode : 0x00000102
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+21-03-2021 17:14:46
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Downloads\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 23304
+Source             : NtCreateThreadEx WOW64.cpp in SR_NtCreateThreadEx_WOW64 at line 144
+Errorcode          : 0x10100009
+Advanced errorcode : 0x00000102
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+21-03-2021 17:15:50
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Downloads\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 21208
+Source             : NtCreateThreadEx WOW64.cpp in SR_NtCreateThreadEx_WOW64 at line 144
+Errorcode          : 0x10100009
+Advanced errorcode : 0x00000102
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+26-03-2021 20:46:20
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 13280
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+26-03-2021 20:46:43
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 13280
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+26-03-2021 20:46:53
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 13280
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+26-03-2021 20:50:13
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 11616
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+26-03-2021 20:51:03
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 11616
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+26-03-2021 20:51:38
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 8604
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+26-03-2021 20:51:58
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 8604
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+26-03-2021 20:52:07
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 8604
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+26-03-2021 20:55:48
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 8604
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+26-03-2021 20:57:35
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 8604
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+26-03-2021 21:01:08
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 8604
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+26-03-2021 21:02:17
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 8604
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 139
+Errorcode          : 0x00000020
+Advanced errorcode : 0x00000000
+Injectionmode      : LdrLoadDll
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+26-03-2021 21:02:22
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 8604
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+26-03-2021 21:03:21
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 8604
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+26-03-2021 21:03:28
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 8604
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+26-03-2021 21:04:03
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 8604
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+26-03-2021 21:04:46
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 8604
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+26-03-2021 21:11:37
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 8604
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+26-03-2021 21:12:35
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 8604
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+26-03-2021 21:13:32
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 8604
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 139
+Errorcode          : 0x00000020
+Advanced errorcode : 0x00000000
+Injectionmode      : LdrLoadDll
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+26-03-2021 21:14:05
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 24788
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+26-03-2021 21:14:39
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 24788
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+26-03-2021 21:14:50
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 24788
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+26-03-2021 21:17:19
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 24788
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+26-03-2021 21:17:30
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 24788
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+26-03-2021 21:17:39
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 24788
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+26-03-2021 21:17:57
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\AppData\Local\Temp\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 24788
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000020
+
+26-03-2021 21:17:59
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\AppData\Local\Temp\R56ul9D8GE.dll
+Target             : ac_client.exe
+Target PID         : 24788
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000030
+
+04-04-2021 12:40:56
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 23440
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+04-04-2021 12:41:27
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 23440
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+04-04-2021 12:43:13
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 23440
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+04-04-2021 12:43:17
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 23440
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+04-04-2021 23:09:45
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\Documents\DanielGoogleTry\OpenGL Hook Template\Debug\ACubeOpenGLHook.dll
+Target             : ac_client.exe
+Target PID         : 25844
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000000
+
+04-04-2021 23:10:00
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\AppData\Local\Temp\q9lNfmL79u.dll
+Target             : ac_client.exe
+Target PID         : 25844
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000030
+
+04-04-2021 23:10:42
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\AppData\Local\Temp\en7PE92Y2k.dll
+Target             : ac_client.exe
+Target PID         : 25844
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000030
+
+04-04-2021 23:16:15
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\AppData\Local\Temp\l70y261j4B.dll
+Target             : ac_client.exe
+Target PID         : 22832
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000030
+
+04-04-2021 23:16:20
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\AppData\Local\Temp\k5gGys0NvL.dll
+Target             : ac_client.exe
+Target PID         : 22832
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000030
+
+04-04-2021 23:16:31
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\AppData\Local\Temp\bYqXAwNb1u.dll
+Target             : ac_client.exe
+Target PID         : 22832
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000030
+
+04-04-2021 23:16:53
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\AppData\Local\Temp\0H8k2OyErO.dll
+Target             : ac_client.exe
+Target PID         : 22832
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000030
+
+04-04-2021 23:27:22
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\AppData\Local\Temp\Kxc20f06nq.dll
+Target             : ac_client.exe
+Target PID         : 24928
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000030
+
+04-04-2021 23:36:06
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\AppData\Local\Temp\3h4kxoQ766.dll
+Target             : ac_client.exe
+Target PID         : 17664
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000030
+
+04-04-2021 23:36:19
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\AppData\Local\Temp\G2BaZ8409d.dll
+Target             : ac_client.exe
+Target PID         : 17664
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000030
+
+04-04-2021 23:36:20
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\AppData\Local\Temp\3hE2wn2UZb.dll
+Target             : ac_client.exe
+Target PID         : 17664
+Source             : Injection Generic WOW64.cpp in InjectDLL_WOW64 at line 132
+Errorcode          : 0x00000028
+Advanced errorcode : 0x0000007E
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000030
+
+22-04-2021 17:24:04
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\AppData\Local\Temp\R9M3PpyPJY.dll
+Target             : hl2.exe
+Target PID         : 18892
+Source             : NtCreateThreadEx WOW64.cpp in SR_NtCreateThreadEx_WOW64 at line 144
+Errorcode          : 0x10100009
+Advanced errorcode : 0x00000102
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000030
+
+22-04-2021 17:28:12
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\AppData\Local\Temp\aP70DWFbg7.dll
+Target             : hl2.exe
+Target PID         : 18892
+Source             : NtCreateThreadEx WOW64.cpp in SR_NtCreateThreadEx_WOW64 at line 144
+Errorcode          : 0x10100009
+Advanced errorcode : 0x00000102
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000030
+
+22-04-2021 17:28:56
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\AppData\Local\Temp\htoCa3bz8E.dll
+Target             : hl2.exe
+Target PID         : 18892
+Source             : NtCreateThreadEx WOW64.cpp in SR_NtCreateThreadEx_WOW64 at line 144
+Errorcode          : 0x10100009
+Advanced errorcode : 0x00000102
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000030
+
+22-04-2021 17:29:21
+Version            : GH Injector V4.0
+OS                 : Windows 10 Education 2004 (Build 19041)
+File               : C:\Users\Dani\AppData\Local\Temp\SOT8ZfDyY7.dll
+Target             : hl2.exe
+Target PID         : 18892
+Source             : NtCreateThreadEx WOW64.cpp in SR_NtCreateThreadEx_WOW64 at line 144
+Errorcode          : 0x10100009
+Advanced errorcode : 0x00000102
+Injectionmode      : LoadLibraryExW
+Launchmethod       : NtCreateThreadEx
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x00000030
+

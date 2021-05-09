@@ -1,0 +1,3 @@
+﻿  glDraw.cpp
+C:\Users\Dani\Documents\OpenGLDLLInjector\ACubeOpenGLHook\glDraw.cpp(33,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ACubeOpenGLHook.vcxproj -> C:\Users\Dani\Documents\OpenGLDLLInjector\Debug\ACubeOpenGLHook.dll
