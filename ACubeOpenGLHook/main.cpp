@@ -3,22 +3,15 @@
 
 #include <windows.h>
 #include <gl\gl.h>
-#include "gltext.h"
 #include "glDraw.h"
 #include "mem.h"
 #include <iostream>
 
-GL::Font glFont;
 #define MENU_FONT_HEIGHT 15
 
 void HackLoop()
 {
 	HDC currentHDC = wglGetCurrentDC();
-
-	if (!glFont.bBuilt || currentHDC != glFont.hdc)
-	{
-		glFont.Build(MENU_FONT_HEIGHT);
-	}
 
 	GL::SetupOrtho();
 	//Draw here

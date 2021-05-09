@@ -84,7 +84,6 @@ void thread_loop() {
 		std::stringstream ss;
 		ss << base_path << '\\';
 		ss << "frame_" << frame++ << ".png";
-		std::cout << ss.str() << std::endl;
 		auto pixels_vector = std::get<0>(image);
 		int width = std::get<1>(image);
 		int height = std::get<2>(image);

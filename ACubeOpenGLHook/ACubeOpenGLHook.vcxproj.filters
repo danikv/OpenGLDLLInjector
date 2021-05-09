@@ -16,9 +16,6 @@
     <Filter Include="Header Files\glDraw">
       <UniqueIdentifier>{83af6938-476c-4043-97d6-ac4242f73021}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Header Files\glText">
-      <UniqueIdentifier>{25ed6e94-af3d-40d0-be00-58cb6fcac828}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Header Files\mem">
       <UniqueIdentifier>{5be5244c-ad19-45bd-8911-8875550a1727}</UniqueIdentifier>
     </Filter>
@@ -35,9 +32,6 @@
     </ClInclude>
     <ClInclude Include="glDraw.h">
       <Filter>Header Files\glDraw</Filter>
-    </ClInclude>
-    <ClInclude Include="gltext.h">
-      <Filter>Header Files\glText</Filter>
     </ClInclude>
     <ClInclude Include="mem.h">
       <Filter>Header Files\mem</Filter>
@@ -58,9 +52,6 @@
     </ClCompile>
     <ClCompile Include="glDraw.cpp">
       <Filter>Header Files\glDraw</Filter>
-    </ClCompile>
-    <ClCompile Include="gltext.cpp">
-      <Filter>Header Files\glText</Filter>
     </ClCompile>
     <ClCompile Include="mem.cpp">
       <Filter>Header Files\mem</Filter>

@@ -82,7 +82,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="gltext.h" />
     <ClInclude Include="glDraw.h" />
     <ClInclude Include="mem.h" />
     <ClInclude Include="SafeQueue.h" />
@@ -93,7 +92,6 @@
   <ItemGroup>
     <ClCompile Include="glDraw.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="gltext.cpp" />
     <ClCompile Include="mem.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
